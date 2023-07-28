@@ -1,0 +1,1 @@
+CreateObject("WScript.Shell").PopUp "Offline: This device did not respond to ping requests."
